@@ -29,7 +29,6 @@ INSERT INTO users (name, age) VALUES ("Austin", 58);
 INSERT INTO users (name, age) VALUES ("Mason", 21);
 INSERT INTO users (name, age) VALUES ("Ruby", 34);
 INSERT INTO users (name, age) VALUES ("Kaitlyn", 22);
-INSERT INTO users (name, age) VALUES ("Lori", 49);
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES (22, 5, 5);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 1, 4);
