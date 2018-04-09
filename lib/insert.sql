@@ -60,4 +60,3 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES (155, 6, 8);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (20, 7, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 2, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (5, 12, 3);
-INSERT INTO pledges (amount, user_id, project_id) VALUES (180, 6, 8);
